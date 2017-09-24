@@ -903,14 +903,18 @@ section#projects {
 }
 
 .project-explain {
-	color: gray;
-	font-size: 14px;
+	/*color: gray;*/
+	font-size: 16px;
+	color: #444;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Open Sans', Arial, sans-serif
 }
 
+
+
 .project-title {
-
 	font-size: 1.25em;
-
 }
 
 
@@ -1775,3 +1779,6 @@ i.icon-white {
 		width: 100%;
 	}
 }
+
+
+
