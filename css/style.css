@@ -251,7 +251,10 @@ h2.pagetitle {
 03. Misc
 ============================================================ */
 
+.blue-anchor {
 
+	color: blue;
+}
 
 .amy-tag-line {
 	text: center;
